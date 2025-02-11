@@ -1,0 +1,55 @@
+=== CRITICAL ERROR ANALYSIS ===
+Timestamp: 20250206_194254
+PDF Path: C:\Users\jtsan\AppData\Local\Temp\tmpi98gbwm0.pdf
+Error: No transactions found in PDF
+
+=== PDF ANALYSIS ===
+Number of pages: 1
+PDF metadata: {'CreationDate': "D:20250206160052+05'30'", 'Producer': 'OpenPDF 1.3.39', 'Title': 'Your UI Title'}
+
+First page sample:
+Transaction History
+6 January 2025 to 6 February 2025
+Name Bank Amount Date Status
+RAJPUROHIT GIRDHARISINGH Kotak 4199 -1211.00 31 January 2025 SUCCESS
+MANIYAR MOHAMMED SABIR Kotak 4199 -1100.00 24 January 2025 SUCCESS
+J T ANITHA Kotak 4199 -13650.00 24 January 2025 SUCCESS
+POMPAPATHI K Kotak 4199 -1200.00 23 January 2025 SUCCESS
+J T RAMANJINI SHETTY Kotak 4199 -1.00 21 January 2025 SUCCESS
+BHIMESH Kotak 4199 40.00 21 January 2025 FAILED
+LASSI DAY CAFE Kotak 4199 -125.00 19 January 2025 SUCCESS
+
+Issue: Missing statement header
+
+Pattern Analysis:
+date: 0 matches found
+amount: 0 matches found
+type: 0 matches found
+
+=== ERROR STATISTICS ===
+encryption_errors: 0
+parsing_errors: 1
+format_errors: 0
+pattern_mismatches: 0
+empty_pages: 0
+critical: 1
+
+=== RECOVERY ATTEMPTS ===
+
+_try_decrypt_pdf:
+Result: Success
+
+_try_repair_pdf:
+Result: Failed
+
+_try_extract_text:
+Result: Success
+
+_try_ocr_scan:
+Result: Failed
+
+=== RECOMMENDATIONS ===
+Parsing issues detected:
+1. Verify this is a PhonePe statement
+2. Check for statement format changes
+3. Try downloading a fresh copy

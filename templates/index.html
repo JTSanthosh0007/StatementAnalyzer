@@ -1,0 +1,29 @@
+%%writefile templates/index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Statement Analyzer</title>
+</head>
+<body>
+    <h1>Statement Analyzer</h1>
+    <div>
+        <textarea id="input-text" placeholder="Enter your statement here..."></textarea>
+        <button onclick="analyzeText()">Analyze</button>
+        <div id="result"></div>
+    </div>
+    <script>
+        async function analyzeText() {
+            const text = document.getElementById('input-text').value;
+            const response = await fetch('/analyze', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text }),
+            });
+            const data = await response.json();
+            document.getElementById('result').textContent = data.result;
+        }
+    </script>
+</body>
+</html>

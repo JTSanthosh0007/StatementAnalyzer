@@ -1,0 +1,1460 @@
+2025-02-06 19:34:41,511 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:41,512 - DEBUG - Sample text: Transaction Statement for +916366456516
+Apr 01, 2023 - Mar 31, 2024
+Date Transaction Details Type Amount
+Apr 01, 2023 Received from Anilshetty Credit INR 150.00
+09:48 AM Transaction ID : T230401094846
+2025-02-06 19:34:41,718 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:41,719 - DEBUG - Sample text: Transaction Statement for +916366456516
+Apr 01, 2023 - Mar 31, 2024
+Date Transaction Details Type Amount
+Apr 01, 2023 Received from Anilshetty Credit INR 150.00
+09:48 AM Transaction ID : T230401094846
+2025-02-06 19:34:41,846 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:41,846 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 04, 2023 Paid to Av vijayakumar Debit INR 3037.00
+09:32 PM Transaction ID : T2304042132040574512160
+UTR No : 346068951311
+Debited from XX5427
+Apr 05, 2023 Paid
+2025-02-06 19:34:42,081 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:42,081 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 04, 2023 Paid to Av vijayakumar Debit INR 3037.00
+09:32 PM Transaction ID : T2304042132040574512160
+UTR No : 346068951311
+Debited from XX5427
+Apr 05, 2023 Paid
+2025-02-06 19:34:42,232 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:42,234 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 06, 2023 Received from anitha Credit INR 230.00
+06:58 PM Transaction ID : T2304061858121255995521
+UTR No : 346208042317
+Credited to XX5427
+Apr 06, 2023 Paid to
+2025-02-06 19:34:42,611 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:42,611 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 06, 2023 Received from anitha Credit INR 230.00
+06:58 PM Transaction ID : T2304061858121255995521
+UTR No : 346208042317
+Credited to XX5427
+Apr 06, 2023 Paid to
+2025-02-06 19:34:42,736 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:42,737 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 09, 2023 Received from ******7399 Credit INR 100.00
+10:39 AM Transaction ID : T2304091039266737533752
+UTR No : 309958379208
+Credited to XX5427
+Apr 09, 2023 Pai
+2025-02-06 19:34:42,911 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:42,911 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 09, 2023 Received from ******7399 Credit INR 100.00
+10:39 AM Transaction ID : T2304091039266737533752
+UTR No : 309958379208
+Credited to XX5427
+Apr 09, 2023 Pai
+2025-02-06 19:34:43,064 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,064 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 16, 2023 Paid to XXXXXXXX4199 Debit INR 100.00
+03:21 PM Transaction ID : T2304161521080095008924
+UTR No : 347270456460
+Debited from XX5427
+Apr 17, 2023 Receive
+2025-02-06 19:34:43,248 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,248 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 16, 2023 Paid to XXXXXXXX4199 Debit INR 100.00
+03:21 PM Transaction ID : T2304161521080095008924
+UTR No : 347270456460
+Debited from XX5427
+Apr 17, 2023 Receive
+2025-02-06 19:34:43,393 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,394 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 24, 2023 Paid to SHIVA PANIPURI CENTER Debit INR 60.00
+07:40 PM Transaction ID : T2304241940332346882372
+UTR No : 348054783269
+Debited from XX4199
+Apr 25, 2023
+2025-02-06 19:34:43,580 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,580 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 24, 2023 Paid to SHIVA PANIPURI CENTER Debit INR 60.00
+07:40 PM Transaction ID : T2304241940332346882372
+UTR No : 348054783269
+Debited from XX4199
+Apr 25, 2023
+2025-02-06 19:34:43,718 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,718 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 29, 2023 Paid to User Debit INR 200.00
+12:25 PM Transaction ID : T2304291225133878087472
+UTR No : 348512165249
+Debited from XX5427
+Apr 29, 2023 Received from B
+2025-02-06 19:34:43,943 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:43,943 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 29, 2023 Paid to User Debit INR 200.00
+12:25 PM Transaction ID : T2304291225133878087472
+UTR No : 348512165249
+Debited from XX5427
+Apr 29, 2023 Received from B
+2025-02-06 19:34:44,094 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:44,098 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 02, 2023 Paid to sindu Debit INR 100.00
+10:02 AM Transaction ID : T2305021002242311268466
+UTR No : 348883714510
+Debited from XX5427
+May 03, 2023 Received from 
+2025-02-06 19:34:44,290 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:44,292 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 02, 2023 Paid to sindu Debit INR 100.00
+10:02 AM Transaction ID : T2305021002242311268466
+UTR No : 348883714510
+Debited from XX5427
+May 03, 2023 Received from 
+2025-02-06 19:34:44,596 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:44,596 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 05, 2023 Received from ramanjini Credit INR 1000.00
+08:09 AM Transaction ID : T2305050808576056061331
+UTR No : 312556271261
+Credited to XX5427
+May 05, 2023 Pai
+2025-02-06 19:34:44,760 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:44,760 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 05, 2023 Received from ramanjini Credit INR 1000.00
+08:09 AM Transaction ID : T2305050808576056061331
+UTR No : 312556271261
+Credited to XX5427
+May 05, 2023 Pai
+2025-02-06 19:34:44,922 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:44,922 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 07, 2023 Received from ramanjini Credit INR 1000.00
+07:44 AM Transaction ID : T2305070744282714198316
+UTR No : 349319307380
+Credited to XX4199
+May 07, 2023 Rec
+2025-02-06 19:34:45,077 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,077 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 07, 2023 Received from ramanjini Credit INR 1000.00
+07:44 AM Transaction ID : T2305070744282714198316
+UTR No : 349319307380
+Credited to XX4199
+May 07, 2023 Rec
+2025-02-06 19:34:45,231 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,231 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 09, 2023 Paid to SAVERA TEA STALL Debit INR 10.00
+08:25 AM Transaction ID : T2305090825381064487520
+UTR No : 349556843380
+Debited from UPI Lite
+May 09, 2023 Re
+2025-02-06 19:34:45,426 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,426 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 09, 2023 Paid to SAVERA TEA STALL Debit INR 10.00
+08:25 AM Transaction ID : T2305090825381064487520
+UTR No : 349556843380
+Debited from UPI Lite
+May 09, 2023 Re
+2025-02-06 19:34:45,580 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,580 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 10, 2023 Paid to N Babu Debit INR 5000.00
+10:40 AM Transaction ID : T2305101040381588831489
+UTR No : 349669132039
+Debited from XX4199
+May 10, 2023 Paid to N Ba
+2025-02-06 19:34:45,731 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,731 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 10, 2023 Paid to N Babu Debit INR 5000.00
+10:40 AM Transaction ID : T2305101040381588831489
+UTR No : 349669132039
+Debited from XX4199
+May 10, 2023 Paid to N Ba
+2025-02-06 19:34:45,906 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:45,906 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 13, 2023 Paid to XXXXXX5427 Debit INR 300.00
+04:52 AM Transaction ID : T2305130452160971378767
+UTR No : 349972072745
+Debited from XX4199
+May 13, 2023 Paid to S
+2025-02-06 19:34:46,075 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:46,075 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 13, 2023 Paid to XXXXXX5427 Debit INR 300.00
+04:52 AM Transaction ID : T2305130452160971378767
+UTR No : 349972072745
+Debited from XX4199
+May 13, 2023 Paid to S
+2025-02-06 19:34:46,232 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:46,232 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 14, 2023 Paid to VANITA KAMALAKAR GIRIYAN Debit INR 10.00
+07:17 AM Transaction ID : T2305140717111722639926
+UTR No : 313470200862
+Debited from UPI Lite
+May 15,
+2025-02-06 19:34:46,416 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:46,416 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 14, 2023 Paid to VANITA KAMALAKAR GIRIYAN Debit INR 10.00
+07:17 AM Transaction ID : T2305140717111722639926
+UTR No : 313470200862
+Debited from UPI Lite
+May 15,
+2025-02-06 19:34:46,614 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:46,614 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 16, 2023 Paid to KAMDHENU MOBILES Debit INR 50.00
+01:28 PM Transaction ID : T2305161328099392805537
+UTR No : 350205282846
+Debited from UPI Lite
+May 16, 2023 Pa
+2025-02-06 19:34:46,973 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:46,973 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 16, 2023 Paid to KAMDHENU MOBILES Debit INR 50.00
+01:28 PM Transaction ID : T2305161328099392805537
+UTR No : 350205282846
+Debited from UPI Lite
+May 16, 2023 Pa
+2025-02-06 19:34:47,114 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,115 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 24, 2023 Paid to Niranjan Achar Debit INR 20.00
+10:35 AM Transaction ID : T2305241035503085874040
+UTR No : 351055871679
+Debited from XX4199
+May 24, 2023 Receiv
+2025-02-06 19:34:47,261 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,261 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 24, 2023 Paid to Niranjan Achar Debit INR 20.00
+10:35 AM Transaction ID : T2305241035503085874040
+UTR No : 351055871679
+Debited from XX4199
+May 24, 2023 Receiv
+2025-02-06 19:34:47,397 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,397 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 28, 2023 Paid to ******0210 Debit INR 1000.00
+07:08 PM Transaction ID : T2305281908409203985991
+UTR No : 351450309420
+Debited from XX4199
+May 28, 2023 Received
+2025-02-06 19:34:47,548 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,548 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 28, 2023 Paid to ******0210 Debit INR 1000.00
+07:08 PM Transaction ID : T2305281908409203985991
+UTR No : 351450309420
+Debited from XX4199
+May 28, 2023 Received
+2025-02-06 19:34:47,692 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,692 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 01, 2023 Paid to suhas reddy Debit INR 800.00
+05:51 AM Transaction ID : T2306010551023807008622
+UTR No : 315277923140
+Debited from XX4199
+Jun 01, 2023 Paid - V
+2025-02-06 19:34:47,859 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:47,859 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 01, 2023 Paid to suhas reddy Debit INR 800.00
+05:51 AM Transaction ID : T2306010551023807008622
+UTR No : 315277923140
+Debited from XX4199
+Jun 01, 2023 Paid - V
+2025-02-06 19:34:48,022 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,022 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 06, 2023 Paid to Niranjan Achar Debit INR 1000.00
+05:35 PM Transaction ID : T2306061734598966996520
+UTR No : 352330958608
+Debited from XX4199
+Jun 07, 2023 Rece
+2025-02-06 19:34:48,171 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,175 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 06, 2023 Paid to Niranjan Achar Debit INR 1000.00
+05:35 PM Transaction ID : T2306061734598966996520
+UTR No : 352330958608
+Debited from XX4199
+Jun 07, 2023 Rece
+2025-02-06 19:34:48,341 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,341 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 10, 2023 Received from ******0923 Credit INR 250.00
+07:41 AM Transaction ID : T2306100740548919932404
+UTR No : 316195028488
+Credited to XX4199
+Jun 10, 2023 Pai
+2025-02-06 19:34:48,473 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,473 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 10, 2023 Received from ******0923 Credit INR 250.00
+07:41 AM Transaction ID : T2306100740548919932404
+UTR No : 316195028488
+Credited to XX4199
+Jun 10, 2023 Pai
+2025-02-06 19:34:48,617 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,617 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 11, 2023 Paid to Niranjan Achar Debit INR 200.00
+06:04 PM Transaction ID : T2306111804305278191715
+UTR No : 352864698997
+Debited from XX4199
+Jun 11, 2023 Paid 
+2025-02-06 19:34:48,742 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,747 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 11, 2023 Paid to Niranjan Achar Debit INR 200.00
+06:04 PM Transaction ID : T2306111804305278191715
+UTR No : 352864698997
+Debited from XX4199
+Jun 11, 2023 Paid 
+2025-02-06 19:34:48,909 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:48,914 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 15, 2023 Paid to VANI Debit INR 35.00
+01:38 PM Transaction ID : T2306151338421805553626
+UTR No : 316625172261
+Debited from XX5427
+Jun 15, 2023 Paid to VANI Deb
+2025-02-06 19:34:49,045 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:49,045 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 15, 2023 Paid to VANI Debit INR 35.00
+01:38 PM Transaction ID : T2306151338421805553626
+UTR No : 316625172261
+Debited from XX5427
+Jun 15, 2023 Paid to VANI Deb
+2025-02-06 19:34:49,231 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:49,231 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 19, 2023 Paid to Mr SANTOSH B Debit INR 30.00
+01:03 PM Transaction ID : T2306191303094971674005
+UTR No : 317084703459
+Debited from XX4199
+Jun 19, 2023 Paid to 
+2025-02-06 19:34:49,545 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:49,545 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 19, 2023 Paid to Mr SANTOSH B Debit INR 30.00
+01:03 PM Transaction ID : T2306191303094971674005
+UTR No : 317084703459
+Debited from XX4199
+Jun 19, 2023 Paid to 
+2025-02-06 19:34:49,724 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:49,739 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 21, 2023 Paid to VANI Debit INR 20.00
+10:52 AM Transaction ID : T2306211051594320408729
+UTR No : 317209994902
+Debited from XX4199
+Jun 21, 2023 Received from **
+2025-02-06 19:34:49,826 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:49,826 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 21, 2023 Paid to VANI Debit INR 20.00
+10:52 AM Transaction ID : T2306211051594320408729
+UTR No : 317209994902
+Debited from XX4199
+Jun 21, 2023 Received from **
+2025-02-06 19:34:49,995 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,062 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 26, 2023 Received from Anilshetty Credit INR 5000.00
+08:19 PM Transaction ID : T2306262019247756683578
+UTR No : 317766977432
+Credited to XX4199
+Jun 26, 2023 Pa
+2025-02-06 19:34:50,103 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,103 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 26, 2023 Received from Anilshetty Credit INR 5000.00
+08:19 PM Transaction ID : T2306262019247756683578
+UTR No : 317766977432
+Credited to XX4199
+Jun 26, 2023 Pa
+2025-02-06 19:34:50,265 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,265 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 29, 2023 Received from ramanjini Credit INR 300.00
+05:18 PM Transaction ID : T2306291718503937236530
+UTR No : 354638173466
+Credited to XX4199
+Jun 29, 2023 Paid
+2025-02-06 19:34:50,380 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,380 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jun 29, 2023 Received from ramanjini Credit INR 300.00
+05:18 PM Transaction ID : T2306291718503937236530
+UTR No : 354638173466
+Credited to XX4199
+Jun 29, 2023 Paid
+2025-02-06 19:34:50,542 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,546 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 02, 2023 Paid to Anil provision store Debit INR 1500.00
+09:59 PM Transaction ID : T2307022159312399260224
+UTR No : 354947180184
+Debited from XX4199
+Jul 02, 202
+2025-02-06 19:34:50,658 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,658 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 02, 2023 Paid to Anil provision store Debit INR 1500.00
+09:59 PM Transaction ID : T2307022159312399260224
+UTR No : 354947180184
+Debited from XX4199
+Jul 02, 202
+2025-02-06 19:34:50,850 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,850 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 04, 2023 Paid to XXXXXX5427 Debit INR 200.00
+09:33 AM Transaction ID : T2307040933091624837575
+UTR No : 355153713213
+Debited from XX4199
+Jul 04, 2023 Received 
+2025-02-06 19:34:50,998 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:50,999 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 04, 2023 Paid to XXXXXX5427 Debit INR 200.00
+09:33 AM Transaction ID : T2307040933091624837575
+UTR No : 355153713213
+Debited from XX4199
+Jul 04, 2023 Received 
+2025-02-06 19:34:51,166 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,166 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 06, 2023 Paid to Kiran Kumar KB Debit INR 2300.00
+09:33 PM Transaction ID : T2307062132566926994401
+UTR No : 318782332746
+Debited from XX4199
+Jul 07, 2023 Paid
+2025-02-06 19:34:51,298 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,298 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 09, 2023 Received from Raisa Credit INR 243.00
+01:33 PM Transaction ID : T2307091333507785161215
+UTR No : 355612485156
+Credited to XX4199
+Jul 09, 2023 Received
+2025-02-06 19:34:51,428 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,428 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 11, 2023 Received from anitha Credit INR 400.00
+04:58 PM Transaction ID : T2307111658553714763387
+UTR No : 355809498732
+Credited to XX4199
+Jul 11, 2023 Paid to
+2025-02-06 19:34:51,579 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,579 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 15, 2023 Paid to Balaji General Store Debit INR 170.00
+09:46 PM Transaction ID : T2307152146134887536645
+UTR No : 356269952921
+Debited from XX4199
+Jul 16, 2023
+2025-02-06 19:34:51,706 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,706 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 06, 2023 Paid to Kiran Kumar KB Debit INR 2300.00
+09:33 PM Transaction ID : T2307062132566926994401
+UTR No : 318782332746
+Debited from XX4199
+Jul 07, 2023 Paid
+2025-02-06 19:34:51,861 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:51,861 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 17, 2023 Received from Mallika Credit INR 20.00
+04:41 PM Transaction ID : T2307171641282931211063
+UTR No : 356498993210
+Credited to XX4199
+Jul 17, 2023 Receive
+2025-02-06 19:34:52,008 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,012 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 09, 2023 Received from Raisa Credit INR 243.00
+01:33 PM Transaction ID : T2307091333507785161215
+UTR No : 355612485156
+Credited to XX4199
+Jul 09, 2023 Received
+2025-02-06 19:34:52,341 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,341 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 20, 2023 Received from ShashankTripathi Credit INR 270.00
+07:00 AM Transaction ID : T2307200700259734459591
+UTR No : 356764339574
+Credited to XX4199
+Jul 20, 20
+2025-02-06 19:34:52,494 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,494 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 11, 2023 Received from anitha Credit INR 400.00
+04:58 PM Transaction ID : T2307111658553714763387
+UTR No : 355809498732
+Credited to XX4199
+Jul 11, 2023 Paid to
+2025-02-06 19:34:52,666 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,666 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 22, 2023 Paid to Shanthi Provision Store Debit INR 5.00
+07:51 PM Transaction ID : T2307221951152259248533
+UTR No : 356991377702
+Debited from XX4199
+Jul 22, 202
+2025-02-06 19:34:52,811 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,811 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 15, 2023 Paid to Balaji General Store Debit INR 170.00
+09:46 PM Transaction ID : T2307152146134887536645
+UTR No : 356269952921
+Debited from XX4199
+Jul 16, 2023
+2025-02-06 19:34:52,981 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:52,981 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 27, 2023 Received from ShashankTripathi Credit INR 305.00
+06:43 AM Transaction ID : T2307270643487067853164
+UTR No : 320872128031
+Credited to XX5427
+Jul 27, 20
+2025-02-06 19:34:53,128 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,130 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 17, 2023 Received from Mallika Credit INR 20.00
+04:41 PM Transaction ID : T2307171641282931211063
+UTR No : 356498993210
+Credited to XX4199
+Jul 17, 2023 Receive
+2025-02-06 19:34:53,294 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,294 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 27, 2023 Received from Manikanta Credit INR 200.00
+08:40 PM Transaction ID : T2307272040233272025499
+UTR No : 357430372198
+Credited to XX5427
+Jul 27, 2023 Paid
+2025-02-06 19:34:53,427 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,429 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 20, 2023 Received from ShashankTripathi Credit INR 270.00
+07:00 AM Transaction ID : T2307200700259734459591
+UTR No : 356764339574
+Credited to XX4199
+Jul 20, 20
+2025-02-06 19:34:53,595 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,595 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 31, 2023 Received from ZEO Travels Credit INR 15.00
+07:44 PM Transaction ID : T2307311944467732244157
+UTR No : 357854301516
+Credited to XX5427
+Aug 01, 2023 Rec
+2025-02-06 19:34:53,724 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,724 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 22, 2023 Paid to Shanthi Provision Store Debit INR 5.00
+07:51 PM Transaction ID : T2307221951152259248533
+UTR No : 356991377702
+Debited from XX4199
+Jul 22, 202
+2025-02-06 19:34:53,881 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:53,881 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 06, 2023 Received from Rajesh m Credit INR 15.00
+09:13 AM Transaction ID : T2308060913511692334829
+UTR No : 358480434383
+Credited to XX5427
+Aug 06, 2023 Receiv
+2025-02-06 19:34:54,039 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,039 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 27, 2023 Received from ShashankTripathi Credit INR 305.00
+06:43 AM Transaction ID : T2307270643487067853164
+UTR No : 320872128031
+Credited to XX5427
+Jul 27, 20
+2025-02-06 19:34:54,170 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,170 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 07, 2023 Received from Ashish Credit INR 300.00
+10:50 PM Transaction ID : T2308072250263478599297
+UTR No : 358569370039
+Credited to XX4199
+Aug 08, 2023 Paid to
+2025-02-06 19:34:54,341 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,341 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 27, 2023 Received from Manikanta Credit INR 200.00
+08:40 PM Transaction ID : T2307272040233272025499
+UTR No : 357430372198
+Credited to XX5427
+Jul 27, 2023 Paid
+2025-02-06 19:34:54,489 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,489 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 12, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 60.00
+01:15 PM Transaction ID : T2308121315188841395068
+UTR No : 359020073327
+Debited from XX4199
+Aug 12, 
+2025-02-06 19:34:54,656 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,656 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jul 31, 2023 Received from ZEO Travels Credit INR 15.00
+07:44 PM Transaction ID : T2307311944467732244157
+UTR No : 357854301516
+Credited to XX5427
+Aug 01, 2023 Rec
+2025-02-06 19:34:54,792 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,792 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 13, 2023 Paid to SOMASHEKAR XEROX CENTER Debit INR 192.00
+08:17 PM Transaction ID : T2308132017416332980432
+UTR No : 359151378781
+Debited from XX4199
+Aug 14, 2
+2025-02-06 19:34:54,958 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:54,958 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 06, 2023 Received from Rajesh m Credit INR 15.00
+09:13 AM Transaction ID : T2308060913511692334829
+UTR No : 358480434383
+Credited to XX5427
+Aug 06, 2023 Receiv
+2025-02-06 19:34:55,088 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:55,088 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 19, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 50.00
+02:34 PM Transaction ID : T2308191433578240607427
+UTR No : 359727155743
+Debited from XX4199
+Aug 21, 
+2025-02-06 19:34:55,284 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:55,302 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 26, 2023 Paid to MAYURA HOTEL Debit INR 60.00
+12:34 PM Transaction ID : T2308261234047508958683
+UTR No : 360434266168
+Debited from XX4199
+Aug 26, 2023 Paid to 
+2025-02-06 19:34:55,365 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:55,368 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 07, 2023 Received from Ashish Credit INR 300.00
+10:50 PM Transaction ID : T2308072250263478599297
+UTR No : 358569370039
+Credited to XX4199
+Aug 08, 2023 Paid to
+2025-02-06 19:34:55,639 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:55,651 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 12, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 60.00
+01:15 PM Transaction ID : T2308121315188841395068
+UTR No : 359020073327
+Debited from XX4199
+Aug 12, 
+2025-02-06 19:34:55,898 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:55,898 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 31, 2023 Paid to State Project Monitoring Unit Unified University Debit INR 1942.00
+07:19 AM Transaction ID : ICIea3928f2715d40339cd146111cc89dde
+UTR No : 3243
+2025-02-06 19:34:56,324 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,346 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,346 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 03, 2023 Received from RAGHAVA T Credit INR 100.00
+09:45 AM Transaction ID : T2309030945508395213346
+UTR No : 361252569296
+Credited to XX4199
+Sep 03, 2023 Paid
+2025-02-06 19:34:56,346 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 13, 2023 Paid to SOMASHEKAR XEROX CENTER Debit INR 192.00
+08:17 PM Transaction ID : T2308132017416332980432
+UTR No : 359151378781
+Debited from XX4199
+Aug 14, 2
+2025-02-06 19:34:56,601 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,632 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 19, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 50.00
+02:34 PM Transaction ID : T2308191433578240607427
+UTR No : 359727155743
+Debited from XX4199
+Aug 21, 
+2025-02-06 19:34:56,667 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,667 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 06, 2023 Paid to Mohammed sabir maniyar Debit INR 12.00
+08:23 AM Transaction ID : T2309060823112333870920
+UTR No : 361533498328
+Debited from XX4199
+Sep 07, 202
+2025-02-06 19:34:56,932 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,939 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:56,939 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 26, 2023 Paid to MAYURA HOTEL Debit INR 60.00
+12:34 PM Transaction ID : T2308261234047508958683
+UTR No : 360434266168
+Debited from XX4199
+Aug 26, 2023 Paid to 
+2025-02-06 19:34:56,939 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 11, 2023 Paid to Anil provision store Debit INR
+08:30 AM Transaction ID : T2309110829576613466136 15000.00
+UTR No : 362088911330
+Debited from XX4199
+Sep 11, 20
+2025-02-06 19:34:57,097 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,097 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 17, 2023 Paid to Shanmukha Debit INR 50.00
+07:45 PM Transaction ID : T2309171945476621249881
+UTR No : 362628626276
+Debited from XX4199
+Sep 18, 2023 Paid to Ton
+2025-02-06 19:34:57,225 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,227 - DEBUG - Sample text: Date Transaction Details Type Amount
+Aug 31, 2023 Paid to State Project Monitoring Unit Unified University Debit INR 1942.00
+07:19 AM Transaction ID : ICIea3928f2715d40339cd146111cc89dde
+UTR No : 3243
+2025-02-06 19:34:57,396 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,396 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 20, 2023 Paid to SOMASHEKAR XEROX CENTER Debit INR 24.00
+08:02 PM Transaction ID : T2309202001544558173657
+UTR No : 362987686828
+Debited from XX4199
+Sep 20, 20
+2025-02-06 19:34:57,527 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,528 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 03, 2023 Received from RAGHAVA T Credit INR 100.00
+09:45 AM Transaction ID : T2309030945508395213346
+UTR No : 361252569296
+Credited to XX4199
+Sep 03, 2023 Paid
+2025-02-06 19:34:57,889 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,922 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 23, 2023 Received from ShashankTripathi Credit INR 270.00
+07:20 AM Transaction ID : T2309230720486111636245
+UTR No : 363203646356
+Credited to XX4199
+Sep 23, 20
+2025-02-06 19:34:57,964 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:57,964 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 06, 2023 Paid to Mohammed sabir maniyar Debit INR 12.00
+08:23 AM Transaction ID : T2309060823112333870920
+UTR No : 361533498328
+Debited from XX4199
+Sep 07, 202
+2025-02-06 19:34:58,214 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,237 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 28, 2023 Received from ramanjini Credit INR 300.00
+05:59 PM Transaction ID : T2309281759176011755481
+UTR No : 363736216058
+Credited to XX4199
+Sep 28, 2023 Paid
+2025-02-06 19:34:58,309 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,309 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 11, 2023 Paid to Anil provision store Debit INR
+08:30 AM Transaction ID : T2309110829576613466136 15000.00
+UTR No : 362088911330
+Debited from XX4199
+Sep 11, 20
+2025-02-06 19:34:58,526 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,554 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 02, 2023 Paid to y Debit INR 1400.00
+11:11 AM Transaction ID : T2310021111109513624679
+UTR No : 327592560768
+Debited from XX4199
+Oct 02, 2023 Paid - Mobile Rec
+2025-02-06 19:34:58,631 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,631 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 17, 2023 Paid to Shanmukha Debit INR 50.00
+07:45 PM Transaction ID : T2309171945476621249881
+UTR No : 362628626276
+Debited from XX4199
+Sep 18, 2023 Paid to Ton
+2025-02-06 19:34:58,905 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,915 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 20, 2023 Paid to SOMASHEKAR XEROX CENTER Debit INR 24.00
+08:02 PM Transaction ID : T2309202001544558173657
+UTR No : 362987686828
+Debited from XX4199
+Sep 20, 20
+2025-02-06 19:34:58,997 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:58,997 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 07, 2023 Received from D Shakeer Shakeer Credit INR 112.00
+10:57 AM Transaction ID : T2310071057494786201995
+UTR No : 328043046071
+Credited to XX4199
+Oct 07, 2
+2025-02-06 19:34:59,273 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,273 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 23, 2023 Received from ShashankTripathi Credit INR 270.00
+07:20 AM Transaction ID : T2309230720486111636245
+UTR No : 363203646356
+Credited to XX4199
+Sep 23, 20
+2025-02-06 19:34:59,273 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,273 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 11, 2023 Received from ramanjini Credit INR 100.00
+06:12 PM Transaction ID : T2310111812183030766044
+UTR No : 365076104672
+Credited to XX4199
+Oct 11, 2023 Paid
+2025-02-06 19:34:59,478 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,478 - DEBUG - Sample text: Date Transaction Details Type Amount
+Sep 28, 2023 Received from ramanjini Credit INR 300.00
+05:59 PM Transaction ID : T2309281759176011755481
+UTR No : 363736216058
+Credited to XX4199
+Sep 28, 2023 Paid
+2025-02-06 19:34:59,596 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,596 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 14, 2023 Paid to XXXXXXXX4199 Debit INR 1.00
+07:56 AM Transaction ID : T2310140756132329125149
+UTR No : 365333661479
+Debited from UPI Lite
+Oct 15, 2023 Paid - 
+2025-02-06 19:34:59,776 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,793 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 02, 2023 Paid to y Debit INR 1400.00
+11:11 AM Transaction ID : T2310021111109513624679
+UTR No : 327592560768
+Debited from XX4199
+Oct 02, 2023 Paid - Mobile Rec
+2025-02-06 19:34:59,873 - ERROR - parsing_errors: Sample text
+2025-02-06 19:34:59,873 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 18, 2023 Paid to Av vijayakumar Debit INR 1133.00
+06:49 AM Transaction ID : T2310180649265355101504
+UTR No : 365746103929
+Debited from XX5427
+Oct 18, 2023 Rece
+2025-02-06 19:35:00,113 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:00,113 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 07, 2023 Received from D Shakeer Shakeer Credit INR 112.00
+10:57 AM Transaction ID : T2310071057494786201995
+UTR No : 328043046071
+Credited to XX4199
+Oct 07, 2
+2025-02-06 19:35:00,448 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:00,448 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 21, 2023 Paid to Desi and spicy Debit INR 20.00
+01:01 PM Transaction ID : T2310211301327170804315
+UTR No : 366054003197
+Debited from XX5427
+Oct 21, 2023 Receiv
+2025-02-06 19:35:00,712 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:00,712 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:00,712 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 11, 2023 Received from ramanjini Credit INR 100.00
+06:12 PM Transaction ID : T2310111812183030766044
+UTR No : 365076104672
+Credited to XX4199
+Oct 11, 2023 Paid
+2025-02-06 19:35:00,712 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 24, 2023 Paid to BALAKRISHNA K Debit INR 30.00
+07:34 AM Transaction ID : T2310240734211511596759
+UTR No : 329779161574
+Debited from XX4199
+Oct 24, 2023 Paid to
+2025-02-06 19:35:00,880 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:00,880 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 26, 2023 Received from Varaprasad N Credit INR 25.00
+08:56 PM Transaction ID : T2310262056024432697252
+UTR No : 366516386927
+Credited to XX4199
+Oct 27, 2023 Re
+2025-02-06 19:35:00,998 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,005 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 14, 2023 Paid to XXXXXXXX4199 Debit INR 1.00
+07:56 AM Transaction ID : T2310140756132329125149
+UTR No : 365333661479
+Debited from UPI Lite
+Oct 15, 2023 Paid - 
+2025-02-06 19:35:01,172 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,172 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 30, 2023 Received from ShashankTripathi Credit INR 210.00
+07:33 AM Transaction ID : T2310300733435622442277
+UTR No : 330302346246
+Credited to XX4199
+Oct 30, 20
+2025-02-06 19:35:01,313 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,313 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 18, 2023 Paid to Av vijayakumar Debit INR 1133.00
+06:49 AM Transaction ID : T2310180649265355101504
+UTR No : 365746103929
+Debited from XX5427
+Oct 18, 2023 Rece
+2025-02-06 19:35:01,475 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,475 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 31, 2023 Received from ******4433 Credit INR 40.00
+07:11 PM Transaction ID : T2310311911545473567463
+UTR No : 367023155970
+Credited to XX5427
+Oct 31, 2023 Paid
+2025-02-06 19:35:01,620 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,620 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 21, 2023 Paid to Desi and spicy Debit INR 20.00
+01:01 PM Transaction ID : T2310211301327170804315
+UTR No : 366054003197
+Debited from XX5427
+Oct 21, 2023 Receiv
+2025-02-06 19:35:01,791 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,791 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 03, 2023 Paid to MAHVEER GENERAL STORE Debit INR 20.00
+06:38 PM Transaction ID : T2311031838225087006789
+UTR No : 367316092378
+Debited from XX4199
+Nov 04, 2023
+2025-02-06 19:35:01,943 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:01,943 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 24, 2023 Paid to BALAKRISHNA K Debit INR 30.00
+07:34 AM Transaction ID : T2310240734211511596759
+UTR No : 329779161574
+Debited from XX4199
+Oct 24, 2023 Paid to
+2025-02-06 19:35:02,126 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:02,126 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 06, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 50.00
+09:38 PM Transaction ID : T2311062137569484968103
+UTR No : 367643879599
+Debited from XX5427
+Nov 07, 
+2025-02-06 19:35:02,425 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:02,425 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 26, 2023 Received from Varaprasad N Credit INR 25.00
+08:56 PM Transaction ID : T2310262056024432697252
+UTR No : 366516386927
+Credited to XX4199
+Oct 27, 2023 Re
+2025-02-06 19:35:02,507 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:02,507 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 10, 2023 Paid to Purushotham Gupta Debit INR 320.00
+04:22 PM Transaction ID : T2311101622188869482439
+UTR No : 368035684543
+Debited from XX5427
+Nov 10, 2023 Pa
+2025-02-06 19:35:02,800 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:02,825 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 30, 2023 Received from ShashankTripathi Credit INR 210.00
+07:33 AM Transaction ID : T2310300733435622442277
+UTR No : 330302346246
+Credited to XX4199
+Oct 30, 20
+2025-02-06 19:35:02,828 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:02,828 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 13, 2023 Received from ramanjini Credit INR 1000.00
+07:44 AM Transaction ID : T2311130744321256778653
+UTR No : 368314842319
+Credited to XX5427
+Nov 13, 2023 Pai
+2025-02-06 19:35:03,093 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,093 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 15, 2023 Received from HMD IRSHAD Credit INR 500.00
+07:37 PM Transaction ID : T2311151937099442254557
+UTR No : 368567812943
+Credited to XX5427
+Nov 15, 2023 Pai
+2025-02-06 19:35:03,126 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,126 - DEBUG - Sample text: Date Transaction Details Type Amount
+Oct 31, 2023 Received from ******4433 Credit INR 40.00
+07:11 PM Transaction ID : T2310311911545473567463
+UTR No : 367023155970
+Credited to XX5427
+Oct 31, 2023 Paid
+2025-02-06 19:35:03,338 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,346 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 17, 2023 Paid to P Lakshmikanth Debit INR 110.00
+02:25 PM Transaction ID : T2311171425108605248380
+UTR No : 332130379973
+Debited from XX5427
+Nov 17, 2023 Paid 
+2025-02-06 19:35:03,410 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,410 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 03, 2023 Paid to MAHVEER GENERAL STORE Debit INR 20.00
+06:38 PM Transaction ID : T2311031838225087006789
+UTR No : 367316092378
+Debited from XX4199
+Nov 04, 2023
+2025-02-06 19:35:03,624 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,624 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 19, 2023 Paid - Mobile Recharge Debit INR 19.00
+06:35 AM Transaction ID : NX23111906345188001912921
+UTR No : 368999387340
+Debited from XX4199
+Nov 19, 2023 Paid
+2025-02-06 19:35:03,759 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,764 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 06, 2023 Paid to SEVEN HILLS SUPER BAZAR 2 Debit INR 50.00
+09:38 PM Transaction ID : T2311062137569484968103
+UTR No : 367643879599
+Debited from XX5427
+Nov 07, 
+2025-02-06 19:35:03,931 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:03,931 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 22, 2023 Paid to XXXXXX5427 Debit INR 17.00
+10:58 PM Transaction ID : T2311222258306184085164
+UTR No : 369287435447
+Debited from XX4199
+Nov 22, 2023 Paid to ra
+2025-02-06 19:35:04,081 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,081 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 10, 2023 Paid to Purushotham Gupta Debit INR 320.00
+04:22 PM Transaction ID : T2311101622188869482439
+UTR No : 368035684543
+Debited from XX5427
+Nov 10, 2023 Pa
+2025-02-06 19:35:04,279 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,279 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 26, 2023 Paid to Av vijayakumar Debit INR 928.00
+07:40 AM Transaction ID : T2311260740168659048365
+UTR No : 369690932144
+Debited from XX5427
+Nov 26, 2023 Paid 
+2025-02-06 19:35:04,439 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,439 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 13, 2023 Received from ramanjini Credit INR 1000.00
+07:44 AM Transaction ID : T2311130744321256778653
+UTR No : 368314842319
+Credited to XX5427
+Nov 13, 2023 Pai
+2025-02-06 19:35:04,609 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,609 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 30, 2023 Paid to ramanjini Debit INR 200.00
+09:50 AM Transaction ID : T2311300950102461659958
+UTR No : 333451011521
+Debited from XX5427
+Nov 30, 2023 Received f
+2025-02-06 19:35:04,763 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,772 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 15, 2023 Received from HMD IRSHAD Credit INR 500.00
+07:37 PM Transaction ID : T2311151937099442254557
+UTR No : 368567812943
+Credited to XX5427
+Nov 15, 2023 Pai
+2025-02-06 19:35:04,913 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:04,913 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 06, 2023 Paid to MAHAVEER MEDICAL STORES Debit INR 13.00
+03:47 PM Transaction ID : T2312061547223168859060
+UTR No : 370641970116
+Debited from XX5427
+Dec 06, 20
+2025-02-06 19:35:05,076 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:05,076 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 17, 2023 Paid to P Lakshmikanth Debit INR 110.00
+02:25 PM Transaction ID : T2311171425108605248380
+UTR No : 332130379973
+Debited from XX5427
+Nov 17, 2023 Paid 
+2025-02-06 19:35:05,237 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:05,237 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 08, 2023 Received from ******2657 Credit INR 20.00
+06:48 PM Transaction ID : T2312081848103101146722
+UTR No : 370884998796
+Credited to XX5427
+Dec 10, 2023 Paid
+2025-02-06 19:35:05,742 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:05,742 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 19, 2023 Paid - Mobile Recharge Debit INR 19.00
+06:35 AM Transaction ID : NX23111906345188001912921
+UTR No : 368999387340
+Debited from XX4199
+Nov 19, 2023 Paid
+2025-02-06 19:35:05,892 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:05,897 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 13, 2023 Paid - Mobile Recharge Debit INR 19.00
+05:10 PM Transaction ID : NX23121317103761137781991
+UTR No : 371303324992
+Debited from XX5427
+Dec 14, 2023 Rece
+2025-02-06 19:35:06,032 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,032 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 22, 2023 Paid to XXXXXX5427 Debit INR 17.00
+10:58 PM Transaction ID : T2311222258306184085164
+UTR No : 369287435447
+Debited from XX4199
+Nov 22, 2023 Paid to ra
+2025-02-06 19:35:06,262 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,262 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 19, 2023 Received from ******8811 Credit INR 30.00
+01:27 PM Transaction ID : T2312191326528834377047
+UTR No : 371996806005
+Credited to XX4199
+Dec 19, 2023 Rece
+2025-02-06 19:35:06,432 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,432 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 26, 2023 Paid to Av vijayakumar Debit INR 928.00
+07:40 AM Transaction ID : T2311260740168659048365
+UTR No : 369690932144
+Debited from XX5427
+Nov 26, 2023 Paid 
+2025-02-06 19:35:06,592 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,592 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 28, 2023 Received from ramanjini Credit INR 1200.00
+08:37 PM Transaction ID : T2312282037444013395104
+UTR No : 372861535153
+Credited to XX4199
+Dec 28, 2023 Pai
+2025-02-06 19:35:06,758 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,758 - DEBUG - Sample text: Date Transaction Details Type Amount
+Nov 30, 2023 Paid to ramanjini Debit INR 200.00
+09:50 AM Transaction ID : T2311300950102461659958
+UTR No : 333451011521
+Debited from XX5427
+Nov 30, 2023 Received f
+2025-02-06 19:35:06,932 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:06,932 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 01, 2024 Paid to NIKHIL B Debit INR 1034.00
+04:05 PM Transaction ID : T2401011605159106767214
+UTR No : 400186284413
+Debited from XX4199
+Jan 01, 2024 Paid to VA
+2025-02-06 19:35:07,130 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,130 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 06, 2023 Paid to MAHAVEER MEDICAL STORES Debit INR 13.00
+03:47 PM Transaction ID : T2312061547223168859060
+UTR No : 370641970116
+Debited from XX5427
+Dec 06, 20
+2025-02-06 19:35:07,276 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,281 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 05, 2024 Received from ******0923 Credit INR 2000.00
+05:50 PM Transaction ID : T2401051750277204080362
+UTR No : 437160431965
+Credited to XX4199
+Jan 05, 2024 Re
+2025-02-06 19:35:07,464 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,464 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 08, 2023 Received from ******2657 Credit INR 20.00
+06:48 PM Transaction ID : T2312081848103101146722
+UTR No : 370884998796
+Credited to XX5427
+Dec 10, 2023 Paid
+2025-02-06 19:35:07,642 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,642 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 10, 2024 Paid to Niranjan Achar Debit INR 150.00
+02:42 PM Transaction ID : T2401101442102625232071
+UTR No : 437629931328
+Debited from XX5427
+Jan 10, 2024 Paid 
+2025-02-06 19:35:07,825 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,825 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 13, 2023 Paid - Mobile Recharge Debit INR 19.00
+05:10 PM Transaction ID : NX23121317103761137781991
+UTR No : 371303324992
+Debited from XX5427
+Dec 14, 2023 Rece
+2025-02-06 19:35:07,997 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:07,997 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 17, 2024 Received from ramanjini Credit INR 200.00
+06:19 PM Transaction ID : T2401171818534404066720
+UTR No : 438302620103
+Credited to XX5427
+Jan 17, 2024 Paid
+2025-02-06 19:35:08,176 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:08,176 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 19, 2023 Received from ******8811 Credit INR 30.00
+01:27 PM Transaction ID : T2312191326528834377047
+UTR No : 371996806005
+Credited to XX4199
+Dec 19, 2023 Rece
+2025-02-06 19:35:08,342 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:08,342 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 19, 2024 Paid to Dominos Pizza Debit INR 252.00
+06:06 PM Transaction ID : T2401191806097423416296
+UTR No : 401916469770
+Debited from XX5427
+Jan 19, 2024 Paid t
+2025-02-06 19:35:08,515 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:08,515 - DEBUG - Sample text: Date Transaction Details Type Amount
+Dec 28, 2023 Received from ramanjini Credit INR 1200.00
+08:37 PM Transaction ID : T2312282037444013395104
+UTR No : 372861535153
+Credited to XX4199
+Dec 28, 2023 Pai
+2025-02-06 19:35:08,663 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:08,663 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 22, 2024 Paid to Anilshetty Debit INR 500.00
+09:03 PM Transaction ID : T2401222103114505814118
+UTR No : 438845166369
+Debited from XX5427
+Jan 23, 2024 Paid to A
+2025-02-06 19:35:08,881 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:08,881 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 01, 2024 Paid to NIKHIL B Debit INR 1034.00
+04:05 PM Transaction ID : T2401011605159106767214
+UTR No : 400186284413
+Debited from XX4199
+Jan 01, 2024 Paid to VA
+2025-02-06 19:35:09,032 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,032 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 27, 2024 Paid to ANKIT PANI PURI CENTER Debit INR 40.00
+08:50 PM Transaction ID : T2401272050484818756226
+UTR No : 439322403533
+Debited from XX5427
+Jan 27, 202
+2025-02-06 19:35:09,240 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,240 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 05, 2024 Received from ******0923 Credit INR 2000.00
+05:50 PM Transaction ID : T2401051750277204080362
+UTR No : 437160431965
+Credited to XX4199
+Jan 05, 2024 Re
+2025-02-06 19:35:09,424 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,424 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 01, 2024 Received from HMD IRSHAD Credit INR 300.00
+01:59 PM Transaction ID : T2402011359389494354302
+UTR No : 439841952815
+Credited to XX5427
+Feb 01, 2024 Pai
+2025-02-06 19:35:09,605 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,608 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 10, 2024 Paid to Niranjan Achar Debit INR 150.00
+02:42 PM Transaction ID : T2401101442102625232071
+UTR No : 437629931328
+Debited from XX5427
+Jan 10, 2024 Paid 
+2025-02-06 19:35:09,764 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,764 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 04, 2024 Received from ******0923 Credit INR 1400.00
+12:47 PM Transaction ID : T2402041247409459302966
+UTR No : 440156384703
+Credited to XX5427
+Feb 04, 2024 Pa
+2025-02-06 19:35:09,945 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:09,947 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 17, 2024 Received from ramanjini Credit INR 200.00
+06:19 PM Transaction ID : T2401171818534404066720
+UTR No : 438302620103
+Credited to XX5427
+Jan 17, 2024 Paid
+2025-02-06 19:35:10,155 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,155 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 07, 2024 Received from Virat K Credit INR 1000.00
+06:06 PM Transaction ID : T2402071806340105315056
+UTR No : 440462974382
+Credited to XX5427
+Feb 07, 2024 Paid 
+2025-02-06 19:35:10,315 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,317 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 19, 2024 Paid to Dominos Pizza Debit INR 252.00
+06:06 PM Transaction ID : T2401191806097423416296
+UTR No : 401916469770
+Debited from XX5427
+Jan 19, 2024 Paid t
+2025-02-06 19:35:10,496 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,505 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 09, 2024 Received from Andrew Naveen Credit INR 50.00
+08:42 PM Transaction ID : T2402092042211089101430
+UTR No : 440648457187
+Credited to XX5427
+Feb 10, 2024 P
+2025-02-06 19:35:10,642 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,642 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 22, 2024 Paid to Anilshetty Debit INR 500.00
+09:03 PM Transaction ID : T2401222103114505814118
+UTR No : 438845166369
+Debited from XX5427
+Jan 23, 2024 Paid to A
+2025-02-06 19:35:10,845 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,845 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 12, 2024 Paid to Zerodha Debit INR 467.00
+12:09 PM Transaction ID : T2402121209495244024350
+UTR No : 404377691789
+Debited from XX4199
+Feb 12, 2024 Paid to XXXX
+2025-02-06 19:35:10,984 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:10,984 - DEBUG - Sample text: Date Transaction Details Type Amount
+Jan 27, 2024 Paid to ANKIT PANI PURI CENTER Debit INR 40.00
+08:50 PM Transaction ID : T2401272050484818756226
+UTR No : 439322403533
+Debited from XX5427
+Jan 27, 202
+2025-02-06 19:35:11,156 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,156 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 14, 2024 Received from Anilshetty Credit INR 1700.00
+11:09 PM Transaction ID : T2402142309263949400324
+UTR No : 441112121622
+Credited to XX5427
+Feb 14, 2024 Re
+2025-02-06 19:35:11,308 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,311 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 01, 2024 Received from HMD IRSHAD Credit INR 300.00
+01:59 PM Transaction ID : T2402011359389494354302
+UTR No : 439841952815
+Credited to XX5427
+Feb 01, 2024 Pai
+2025-02-06 19:35:11,480 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,480 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 16, 2024 Received from ramanjini Credit INR 20.00
+07:04 PM Transaction ID : T2402161904512865736358
+UTR No : 404730578111
+Credited to XX5427
+Feb 16, 2024 Paid 
+2025-02-06 19:35:11,614 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,614 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 04, 2024 Received from ******0923 Credit INR 1400.00
+12:47 PM Transaction ID : T2402041247409459302966
+UTR No : 440156384703
+Credited to XX5427
+Feb 04, 2024 Pa
+2025-02-06 19:35:11,814 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,814 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 17, 2024 Paid to A K GENERAL STORE Debit INR 100.00
+10:35 AM Transaction ID : T2402171035077240196323
+UTR No : 404876902538
+Debited from XX5427
+Feb 19, 2024 Re
+2025-02-06 19:35:11,963 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:11,964 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 07, 2024 Received from Virat K Credit INR 1000.00
+06:06 PM Transaction ID : T2402071806340105315056
+UTR No : 440462974382
+Credited to XX5427
+Feb 07, 2024 Paid 
+2025-02-06 19:35:12,533 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:12,533 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 28, 2024 Paid to State Project Monitoring Unit Unified University Debit INR 1620.00
+08:25 PM Transaction ID : ICIa4b0d2a94f0949a7b2aecb61d6900cf1
+UTR No : 4059
+2025-02-06 19:35:12,664 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:12,664 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 09, 2024 Received from Andrew Naveen Credit INR 50.00
+08:42 PM Transaction ID : T2402092042211089101430
+UTR No : 440648457187
+Credited to XX5427
+Feb 10, 2024 P
+2025-02-06 19:35:12,821 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:12,821 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 02, 2024 Paid to XXXXXXXX4199 Debit INR 1000.00
+06:24 AM Transaction ID : T2403020624322617510192
+UTR No : 442836683688
+Debited from XX5427
+Mar 02, 2024 Paid t
+2025-02-06 19:35:12,964 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:12,964 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 12, 2024 Paid to Zerodha Debit INR 467.00
+12:09 PM Transaction ID : T2402121209495244024350
+UTR No : 404377691789
+Debited from XX4199
+Feb 12, 2024 Paid to XXXX
+2025-02-06 19:35:13,172 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:13,172 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 03, 2024 Paid to XXXXXX5427 Debit INR 1300.00
+07:58 AM Transaction ID : T2403030758527591598428
+UTR No : 442917106661
+Debited from XX4199
+Mar 03, 2024 Received
+2025-02-06 19:35:13,297 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:13,297 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 14, 2024 Received from Anilshetty Credit INR 1700.00
+11:09 PM Transaction ID : T2402142309263949400324
+UTR No : 441112121622
+Credited to XX5427
+Feb 14, 2024 Re
+2025-02-06 19:35:13,547 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:13,547 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 04, 2024 Paid to Krishna Kulfi Ice Cream Debit INR 30.00
+08:01 PM Transaction ID : T2403042001273169194175
+UTR No : 443012606534
+Debited from XX4199
+Mar 04, 20
+2025-02-06 19:35:13,664 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:13,664 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 16, 2024 Received from ramanjini Credit INR 20.00
+07:04 PM Transaction ID : T2402161904512865736358
+UTR No : 404730578111
+Credited to XX5427
+Feb 16, 2024 Paid 
+2025-02-06 19:35:13,880 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:13,880 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 08, 2024 Paid to Mohammed sabir maniyar Debit INR 1440.00
+07:00 PM Transaction ID : T2403081900328849210173
+UTR No : 443468149189
+Debited from XX4199
+Mar 08, 2
+2025-02-06 19:35:14,009 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,009 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 17, 2024 Paid to A K GENERAL STORE Debit INR 100.00
+10:35 AM Transaction ID : T2402171035077240196323
+UTR No : 404876902538
+Debited from XX5427
+Feb 19, 2024 Re
+2025-02-06 19:35:14,308 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,308 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 11, 2024 Paid to ramanjini Debit INR 1300.00
+09:53 PM Transaction ID : T2403112153358161789884
+UTR No : 443785613950
+Debited from XX4199
+Mar 12, 2024 Received 
+2025-02-06 19:35:14,308 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,308 - DEBUG - Sample text: Date Transaction Details Type Amount
+Feb 28, 2024 Paid to State Project Monitoring Unit Unified University Debit INR 1620.00
+08:25 PM Transaction ID : ICIa4b0d2a94f0949a7b2aecb61d6900cf1
+UTR No : 4059
+2025-02-06 19:35:14,548 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,549 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 13, 2024 Paid to XXXXXX5427 Debit INR 1800.00
+08:29 PM Transaction ID : T2403132029063044537707
+UTR No : 443998963516
+Debited from XX4199
+Mar 13, 2024 Paid to 
+2025-02-06 19:35:14,663 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,663 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 02, 2024 Paid to XXXXXXXX4199 Debit INR 1000.00
+06:24 AM Transaction ID : T2403020624322617510192
+UTR No : 442836683688
+Debited from XX5427
+Mar 02, 2024 Paid t
+2025-02-06 19:35:14,831 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,831 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 16, 2024 Paid to EKART Debit INR 367.00
+01:09 PM Transaction ID : T2403161309381785130679
+UTR No : 444225165944
+Debited from XX4199
+Mar 16, 2024 Paid to MAHAVE
+2025-02-06 19:35:14,983 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:14,983 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 03, 2024 Paid to XXXXXX5427 Debit INR 1300.00
+07:58 AM Transaction ID : T2403030758527591598428
+UTR No : 442917106661
+Debited from XX4199
+Mar 03, 2024 Received
+2025-02-06 19:35:15,147 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,157 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 19, 2024 Paid to y Debit INR 2000.00
+01:20 PM Transaction ID : T2403191320160944506538
+UTR No : 444539160099
+Debited from XX4199
+Mar 20, 2024 Paid - Mobile Rec
+2025-02-06 19:35:15,297 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,297 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 04, 2024 Paid to Krishna Kulfi Ice Cream Debit INR 30.00
+08:01 PM Transaction ID : T2403042001273169194175
+UTR No : 443012606534
+Debited from XX4199
+Mar 04, 20
+2025-02-06 19:35:15,474 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,474 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 21, 2024 Received from Anilshetty Credit INR 900.00
+03:17 PM Transaction ID : T2403211517453355135908
+UTR No : 444744601187
+Credited to XX4199
+Mar 21, 2024 Pai
+2025-02-06 19:35:15,608 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,608 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 08, 2024 Paid to Mohammed sabir maniyar Debit INR 1440.00
+07:00 PM Transaction ID : T2403081900328849210173
+UTR No : 443468149189
+Debited from XX4199
+Mar 08, 2
+2025-02-06 19:35:15,764 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,764 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 24, 2024 Received from ******0923 Credit INR 3400.00
+08:04 PM Transaction ID : T2403242004309852700006
+UTR No : 408401090173
+Credited to XX4199
+Mar 24, 2024 Pa
+2025-02-06 19:35:15,913 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:15,913 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 11, 2024 Paid to ramanjini Debit INR 1300.00
+09:53 PM Transaction ID : T2403112153358161789884
+UTR No : 443785613950
+Debited from XX4199
+Mar 12, 2024 Received 
+2025-02-06 19:35:16,071 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:16,071 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 28, 2024 Paid to ramanjini Debit INR 100.00
+08:09 AM Transaction ID : T2403280809354733979815
+UTR No : 445441647748
+Debited from XX5427
+Mar 28, 2024 Paid to An
+2025-02-06 19:35:16,233 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:16,233 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 13, 2024 Paid to XXXXXX5427 Debit INR 1800.00
+08:29 PM Transaction ID : T2403132029063044537707
+UTR No : 443998963516
+Debited from XX4199
+Mar 13, 2024 Paid to 
+2025-02-06 19:35:16,341 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:16,341 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 30, 2024 Paid to Tea Stall Debit INR 20.00
+09:55 PM Transaction ID : T2403302155166289450142
+UTR No : 445678080732
+Debited from XX4199
+Mar 31, 2024 Paid - Mobi
+2025-02-06 19:35:17,087 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,087 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 16, 2024 Paid to EKART Debit INR 367.00
+01:09 PM Transaction ID : T2403161309381785130679
+UTR No : 444225165944
+Debited from XX4199
+Mar 16, 2024 Paid to MAHAVE
+2025-02-06 19:35:17,247 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,247 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 19, 2024 Paid to y Debit INR 2000.00
+01:20 PM Transaction ID : T2403191320160944506538
+UTR No : 444539160099
+Debited from XX4199
+Mar 20, 2024 Paid - Mobile Rec
+2025-02-06 19:35:17,403 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,403 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 21, 2024 Received from Anilshetty Credit INR 900.00
+03:17 PM Transaction ID : T2403211517453355135908
+UTR No : 444744601187
+Credited to XX4199
+Mar 21, 2024 Pai
+2025-02-06 19:35:17,545 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,553 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 24, 2024 Received from ******0923 Credit INR 3400.00
+08:04 PM Transaction ID : T2403242004309852700006
+UTR No : 408401090173
+Credited to XX4199
+Mar 24, 2024 Pa
+2025-02-06 19:35:17,720 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,720 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 28, 2024 Paid to ramanjini Debit INR 100.00
+08:09 AM Transaction ID : T2403280809354733979815
+UTR No : 445441647748
+Debited from XX5427
+Mar 28, 2024 Paid to An
+2025-02-06 19:35:17,858 - ERROR - parsing_errors: Sample text
+2025-02-06 19:35:17,858 - DEBUG - Sample text: Date Transaction Details Type Amount
+Mar 30, 2024 Paid to Tea Stall Debit INR 20.00
+09:55 PM Transaction ID : T2403302155166289450142
+UTR No : 445678080732
+Debited from XX4199
+Mar 31, 2024 Paid - Mobi

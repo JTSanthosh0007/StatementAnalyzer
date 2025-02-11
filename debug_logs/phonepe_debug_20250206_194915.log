@@ -1,0 +1,115 @@
+2025-02-06 19:49:16,031 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,039 - DEBUG - Sample text: Transaction Statement for +916366456516
+Apr 01, 2023 - Mar 31, 2024
+Date Transaction Details Type Amount
+Apr 01, 2023 Received from Anilshetty Credit INR 150.00
+09:48 AM Transaction ID : T230401094846
+2025-02-06 19:49:16,212 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,212 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 04, 2023 Paid to Av vijayakumar Debit INR 3037.00
+09:32 PM Transaction ID : T2304042132040574512160
+UTR No : 346068951311
+Debited from XX5427
+Apr 05, 2023 Paid
+2025-02-06 19:49:16,393 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,393 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 06, 2023 Received from anitha Credit INR 230.00
+06:58 PM Transaction ID : T2304061858121255995521
+UTR No : 346208042317
+Credited to XX5427
+Apr 06, 2023 Paid to
+2025-02-06 19:49:16,540 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,540 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 09, 2023 Received from ******7399 Credit INR 100.00
+10:39 AM Transaction ID : T2304091039266737533752
+UTR No : 309958379208
+Credited to XX5427
+Apr 09, 2023 Pai
+2025-02-06 19:49:16,723 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,723 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 16, 2023 Paid to XXXXXXXX4199 Debit INR 100.00
+03:21 PM Transaction ID : T2304161521080095008924
+UTR No : 347270456460
+Debited from XX5427
+Apr 17, 2023 Receive
+2025-02-06 19:49:16,874 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:16,874 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 24, 2023 Paid to SHIVA PANIPURI CENTER Debit INR 60.00
+07:40 PM Transaction ID : T2304241940332346882372
+UTR No : 348054783269
+Debited from XX4199
+Apr 25, 2023
+2025-02-06 19:49:17,199 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:17,199 - DEBUG - Sample text: Date Transaction Details Type Amount
+Apr 29, 2023 Paid to User Debit INR 200.00
+12:25 PM Transaction ID : T2304291225133878087472
+UTR No : 348512165249
+Debited from XX5427
+Apr 29, 2023 Received from B
+2025-02-06 19:49:17,544 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:17,544 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 02, 2023 Paid to sindu Debit INR 100.00
+10:02 AM Transaction ID : T2305021002242311268466
+UTR No : 348883714510
+Debited from XX5427
+May 03, 2023 Received from 
+2025-02-06 19:49:17,714 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:17,714 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 05, 2023 Received from ramanjini Credit INR 1000.00
+08:09 AM Transaction ID : T2305050808576056061331
+UTR No : 312556271261
+Credited to XX5427
+May 05, 2023 Pai
+2025-02-06 19:49:17,929 - ERROR - parsing_errors: Sample text
+2025-02-06 19:49:17,929 - DEBUG - Sample text: Date Transaction Details Type Amount
+May 07, 2023 Received from ramanjini Credit INR 1000.00
+07:44 AM Transaction ID : T2305070744282714198316
+UTR No : 349319307380
+Credited to XX4199
+May 07, 2023 Rec
+2025-02-06 19:49:41,414 - CRITICAL - 
+        Critical Error Detected
+        Type: parsing_error
+        Error: 
+            Error processing PDF.
+            Pages processed: 0/105
+            Transactions found: 0
+            Error: No transactions found in any page of the PDF
+            
+        
+        Detailed analysis saved to: debug_logs\critical_error_20250206_194940.log
+        
+        Immediate actions:
+        1. Check PDF encryption status
+        2. Verify PDF content is accessible
+        3. Try creating a new PDF copy
+        4. Check debug log for details
+        
+        For technical support:
+        - Share the critical error log
+        - Include the original PDF if possible
+        - Describe the steps to reproduce
+        
+2025-02-06 19:51:08,856 - CRITICAL - 
+        Critical Error Detected
+        Type: parsing_error
+        Error: 
+            Error processing PDF.
+            Pages processed: 0/105
+            Transactions found: 0
+            Error: No transactions found in any page of the PDF
+            
+        
+        Detailed analysis saved to: debug_logs\critical_error_20250206_195106.log
+        
+        Immediate actions:
+        1. Check PDF encryption status
+        2. Verify PDF content is accessible
+        3. Try creating a new PDF copy
+        4. Check debug log for details
+        
+        For technical support:
+        - Share the critical error log
+        - Include the original PDF if possible
+        - Describe the steps to reproduce
+        

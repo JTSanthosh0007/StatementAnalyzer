@@ -1,0 +1,58 @@
+=== CRITICAL ERROR ANALYSIS ===
+Timestamp: 20250206_194338
+PDF Path: C:\Users\jtsan\AppData\Local\Temp\tmp9m5b5id7.pdf
+Error: No transactions found in PDF
+
+=== PDF ANALYSIS ===
+Number of pages: 105
+PDF metadata: {'Producer': 'iLovePDF', 'ModDate': 'D:20250205042330Z'}
+
+First page sample:
+Transaction Statement for +916366456516
+Apr 01, 2023 - Mar 31, 2024
+Date Transaction Details Type Amount
+Apr 01, 2023 Received from Anilshetty Credit INR 150.00
+09:48 AM Transaction ID : T2304010948469797125668
+UTR No : 309173880718
+Credited to XX5427
+Apr 01, 2023 Received from ******9754 Credit INR 24.00
+09:50 PM Transaction ID : T2304012150047240173713
+UTR No : 345753562176
+Credited to XX5427
+Apr 02, 2023 Received from Harsha Credit INR 75.00
+01:03 PM Transaction ID : T2304021303353514710156
+U
+Pattern Analysis:
+date: 10 matches found
+Sample: ['Apr 01, 2023', 'Mar 31, 2024', 'Apr 01, 2023']
+amount: 8 matches found
+Sample: ['INR 150.00', 'INR 24.00', 'INR 75.00']
+type: 0 matches found
+
+=== ERROR STATISTICS ===
+encryption_errors: 0
+parsing_errors: 105
+format_errors: 0
+pattern_mismatches: 0
+empty_pages: 0
+critical: 1
+
+=== RECOVERY ATTEMPTS ===
+
+_try_decrypt_pdf:
+Result: Success
+
+_try_repair_pdf:
+Result: Failed
+
+_try_extract_text:
+Result: Success
+
+_try_ocr_scan:
+Result: Failed
+
+=== RECOMMENDATIONS ===
+Parsing issues detected:
+1. Verify this is a PhonePe statement
+2. Check for statement format changes
+3. Try downloading a fresh copy

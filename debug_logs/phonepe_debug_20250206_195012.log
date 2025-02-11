@@ -1,0 +1,23 @@
+2025-02-06 19:51:08,856 - CRITICAL - 
+        Critical Error Detected
+        Type: parsing_error
+        Error: 
+            Error processing PDF.
+            Pages processed: 0/105
+            Transactions found: 0
+            Error: No transactions found in any page of the PDF
+            
+        
+        Detailed analysis saved to: debug_logs\critical_error_20250206_195106.log
+        
+        Immediate actions:
+        1. Check PDF encryption status
+        2. Verify PDF content is accessible
+        3. Try creating a new PDF copy
+        4. Check debug log for details
+        
+        For technical support:
+        - Share the critical error log
+        - Include the original PDF if possible
+        - Describe the steps to reproduce
+        
